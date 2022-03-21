@@ -1,0 +1,10 @@
+<package>
+    <name>my_package</name>
+    <version>0.1.0</version>
+    <description>
+        This package is a test
+    </description>
+    <maintainer email="markus@hiof.no">Markus Kinn</maintainer>
+    <license>None</license>
+    <buidtool_depend>catkin</buidtool_depend>
+</package>

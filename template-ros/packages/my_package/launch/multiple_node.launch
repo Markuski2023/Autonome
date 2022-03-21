@@ -1,0 +1,5 @@
+<launch>
+    <group ns="$(arge veh)">
+    <node pkg="my_package" type="my_publisher_node.py" name="my_publisher_node">
+    <node pkg="my_package" type="my_subscriber_node.py" name="my_subscriber_node">
+</launch>
